@@ -172,7 +172,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     badge:
-      label: Key Benefits
+      label: Bitcoin ist die Zukunft – wir zeigen dir den Weg.
       color: text-primary
       styles:
         self:
