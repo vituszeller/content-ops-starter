@@ -538,8 +538,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Nehmen Sie entweder via Email vitus.zeller \[@] gmail.com oder via das
-      Kontaktformular Kontakt mit mir auf. 
+      Nehmen Sie entweder via Email unter vitus.zeller \[@] gmail.com oder über
+      das Formular Kontakt mit mir auf.
     media:
       fields:
         - name: name
