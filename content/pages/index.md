@@ -44,10 +44,10 @@ sections:
       - type: FeaturedItem
         title: Bitcoin Strategie
         subtitle: ∞/21M
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Auch Euer Unternehmen kann von Bitcoin und dessen Potenzial
+          profitieren. Wir finden die passende Strategie und helfen bei der
+          Umsetzung.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
