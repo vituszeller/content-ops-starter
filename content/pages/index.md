@@ -533,7 +533,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Über dieses Formular können Sie Kontakt mit mir aufnehmen.
+      text: Kontaktformular für Anfragen.
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
