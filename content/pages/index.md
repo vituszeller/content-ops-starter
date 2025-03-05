@@ -14,7 +14,9 @@ sections:
 
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/A tree with golden Bitcoin coins as leaves symbolizes financial
+        growth, with its roots glowing in turquois.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
