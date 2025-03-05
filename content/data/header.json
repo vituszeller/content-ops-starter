@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Produktangebot",
-            "url": "/pricing",
+            "url": "/Produktangebot",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
