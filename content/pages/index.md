@@ -12,16 +12,7 @@ sections:
       **Von der Vision zur Realität:** Strategie, Beratung und Umsetzung für
       Bitcoin-Projekte und Tech-Startups.
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
