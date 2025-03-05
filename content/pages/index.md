@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Strategie. Beratung. Bitcoin. Dein Erfolg beginnt hier.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **Von der Vision zur Realität:** Strategie, Beratung und Umsetzung für
+      Bitcoin-Projekte und Tech-Startups.
+
     actions:
       - label: Get started
         altText: ''
