@@ -43,7 +43,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Bitcoin Strategie
-        subtitle: ''
+        subtitle: ∞/21M
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
