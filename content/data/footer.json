@@ -56,7 +56,7 @@
             "type": "Social"
         },
         {
-            "altText": "Email link",
+            "altText": "",
             "url": "/",
             "icon": "mail",
             "type": "Social"
