@@ -97,7 +97,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Beratung & Projektumsetzung
-        subtitle: Beratung bis zur Umsetzung
+        subtitle: Von der Beratung zur Realität
         text: >+
           **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
           erfolgreiches Tech- oder Bitcoin-Projekt – mit klarer Strategie und
