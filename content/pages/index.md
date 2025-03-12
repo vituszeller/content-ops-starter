@@ -71,30 +71,6 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: Beratung & Projektumsetzung
-        subtitle: Von Beratung zur Realität
-        text: >+
-          **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
-          erfolgreiches Tech- oder Bitcoin-Projekt – mit klarer Strategie und
-          praxisnaher Umsetzung.
-
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - title: Startup Strategie
         subtitle: zero to one
         text: >+
@@ -119,6 +95,30 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+        type: FeaturedItem
+      - title: Beratung & Projektumsetzung
+        subtitle: Von Beratung zur Realität
+        text: >+
+          **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
+          erfolgreiches Tech- oder Bitcoin-Projekt – mit klarer Strategie und
+          praxisnaher Umsetzung.
+
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
         type: FeaturedItem
     actions: []
     badge:
