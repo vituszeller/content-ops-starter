@@ -170,7 +170,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Bitcoin revolutioniert die Finanzwelt – wir helfen dir, diese Chance
       strategisch zu nutzen und dein Geschäft nachhaltig zu skalieren.
 
@@ -179,7 +179,6 @@ sections:
 
       Profitiere von unserer Expertise und setze Bitcoin gezielt für
       langfristigen Unternehmenserfolg ein.
-
     badge:
       label: Bitcoin ist die Zukunft – wir zeigen dir den Weg.
       color: text-primary
@@ -216,24 +215,24 @@ sections:
       Sie bitte unter +49 1578 1824735 an.
     media:
       fields:
-        - name: name
+        - name: Name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Dein Name
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Deine Email
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Deine Nachricht
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -251,7 +250,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Senden
         showIcon: false
         icon: arrowRight
         iconPosition: right
