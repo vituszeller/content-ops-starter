@@ -96,7 +96,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Projektumsetzung
+      - title: Beratung & Projektumsetzung
         subtitle: Beratung bis zur Umsetzung
         text: >+
           **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
