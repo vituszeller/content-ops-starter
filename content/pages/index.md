@@ -216,7 +216,7 @@ sections:
       Sie bitte unter +49 1578 1824735 an.
     media:
       fields:
-        - name: name
+        - name: Name
           label: Name
           hideLabel: true
           placeholder: Your name
