@@ -49,7 +49,7 @@ sections:
       83026 Rosenheim
 
 
-      E-Mail: [starwings@vituszeller.de]()
+      E-Mail: starwings \[at] vituszeller.de
 
 
       **3. Hosting und Datenverarbeitung in den USA**
@@ -154,7 +154,6 @@ sections:
       Wir behalten uns vor, diese Datenschutzerklärung bei Änderungen unserer
       Website oder gesetzlichen Vorgaben anzupassen. Es gilt die jeweils
       aktuelle Version auf dieser Website.
-
 
 
       Stand März 2025
