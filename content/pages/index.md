@@ -159,11 +159,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Bitcoin revolutioniert die Finanzwelt – wir helfen dir, diese Chance
+      strategisch zu nutzen und dein Geschäft nachhaltig zu skalieren.
+
+      Nutze das Potenzial von Bitcoin, um dein Business zukunftssicher und
+      wachstumsstark aufzustellen.
+
+      Profitiere von unserer Expertise und setze Bitcoin gezielt für
+      langfristigen Unternehmenserfolg ein.
+
     badge:
       label: Bitcoin ist die Zukunft – wir zeigen dir den Weg.
       color: text-primary
