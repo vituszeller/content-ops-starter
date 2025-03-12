@@ -23,7 +23,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      ****
+      ***
 
 
       **Angaben gemäß § 5 TMG:**
@@ -41,7 +41,7 @@ sections:
       **Kontakt:**
 
 
-      E-Mail: [starwings@vituszeller.de]()
+      E-Mail: starwings \[at] vituszeller.de
 
 
       **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
