@@ -109,7 +109,10 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: >-
+            /images/A futuristic startup strategy concept focused on technology
+            and AI. A glowing turquoise rocket launches from a high-tech
+            platform, symbolizing the jou.png
           altText: Placeholder text
           elementId: ''
           styles:
