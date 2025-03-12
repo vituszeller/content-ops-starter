@@ -22,8 +22,8 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      ### **Impressum**
+    text: >
+      ****
 
 
       **Angaben gemäß § 5 TMG:**
@@ -102,9 +102,6 @@ sections:
       aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei
       Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend
       entfernen.
-
-
-
     actions: []
     colors: bg-light-fg-dark
     styles:
