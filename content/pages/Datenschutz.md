@@ -22,7 +22,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
+    text: >
       **1. Allgemeine Hinweise**
 
 
@@ -31,8 +31,10 @@ sections:
       Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
 
-      Beim Besuch dieser Website werden nur die Daten verarbeitet, die technisch
-      erforderlich sind, um die Seite anzuzeigen.
+      Beim Besuch dieser Website werden Daten verarbeitet, die technisch
+      erforderlich sind, um die Seite anzuzeigen. Zusätzlich können durch
+      unseren Hosting-Dienstleister und externe Plattformen Analyse- und
+      Tracking-Daten erfasst werden.
 
 
       **2. Verantwortlicher**
@@ -50,34 +52,64 @@ sections:
       E-Mail: [starwings@vituszeller.de]()
 
 
-      **3. Erhebung und Speicherung personenbezogener Daten**
+      **3. Hosting und Datenverarbeitung in den USA**
+
+
+      Diese Website wird durch den Dienstleister **Netlify** in den USA
+      gehostet. Zudem wird GitHub zur Bereitstellung von Code und
+      Website-Ressourcen genutzt. Durch den Besuch der Website können
+      personenbezogene Daten (z. B. IP-Adresse, Browsertyp, Zugriffszeiten) in
+      die USA übertragen und dort verarbeitet werden.
+
+
+      Die USA gelten nach europäischem Datenschutzrecht als Land mit einem
+      möglicherweise unzureichenden Datenschutzniveau. Netlify und GitHub setzen
+      jedoch verschiedene Sicherheitsmaßnahmen ein, um den Datenschutz zu
+      gewährleisten.
+
+
+      **4. Erhebung und Speicherung personenbezogener Daten**
 
 
       Beim Besuch dieser Website werden automatisch Informationen erfasst, die
       dein Browser an unseren Server übermittelt (z. B. IP-Adresse, Browsertyp,
       Betriebssystem, Uhrzeit des Zugriffs). Diese Daten sind technisch
       notwendig, um die Website anzuzeigen und ihre Stabilität und Sicherheit zu
-      gewährleisten. Eine Zusammenführung mit anderen Datenquellen erfolgt
-      nicht.
+      gewährleisten. Eine Zusammenführung mit anderen Datenquellen erfolgt nicht
+      durch uns.
 
 
-      **4. Cookies**
+      **5. Analyse- und Tracking durch Netlify und GitHub**
+
+
+      Unser Hosting-Anbieter **Netlify** sowie **GitHub** erheben automatisch
+      Nutzungsdaten und setzen Tracking-Technologien ein, um Leistungs- und
+      Sicherheitsanalysen durchzuführen. Dabei können Daten wie IP-Adresse,
+      Standort, Referrer, Gerätetyp und Browser-Informationen erfasst werden.
+
+
+      Diese Daten werden von Netlify und GitHub genutzt, um die Verfügbarkeit
+      der Website sicherzustellen, Performance-Optimierungen vorzunehmen und
+      mögliche Sicherheitsrisiken zu erkennen. Die Verarbeitung dieser Daten
+      erfolgt gemäß den jeweiligen Datenschutzrichtlinien:
+
+
+      *   **Netlify Datenschutzrichtlinie:**
+      [https://www.netlify.com/privacy/]()
+
+
+      *   **GitHub Datenschutzrichtlinie:**
+      <https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>
+
+
+      **6. Cookies**
 
 
       Diese Website verwendet keine oder nur technisch notwendige Cookies. Falls
       sich dies zukünftig ändert, informieren wir dich entsprechend.
 
 
-      **5. Drittanbieter & Tracking-Tools**
-
-
-      Wir setzen keine eigenen Analyse- oder Tracking-Tools ein. Falls externe
-      Inhalte (z. B. eingebettete Videos oder Karten) verwendet werden, können
-      Drittanbieter möglicherweise Daten erfassen. In diesem Fall erfolgt eine
-      separate Information.
-
-
-      **6. Deine Rechte**
+      **7. Deine Rechte**
 
 
       Du hast das Recht:
@@ -107,16 +139,16 @@ sections:
       wenden.
 
 
-      **7. Datenübermittlung & Speicherung**
+      **8. Datenübermittlung & Speicherung**
 
 
-      Es erfolgt keine Übermittlung deiner Daten an Dritte, es sei denn, dies
-      ist gesetzlich vorgeschrieben oder zur Vertragserfüllung erforderlich.
-      Server-Logfiles werden nur so lange gespeichert, wie es aus
+      Es erfolgt keine Weitergabe deiner Daten an Dritte durch uns, es sei denn,
+      dies ist gesetzlich vorgeschrieben oder zur Vertragserfüllung
+      erforderlich. Server-Logfiles werden nur so lange gespeichert, wie es aus
       Sicherheitsgründen notwendig ist.
 
 
-      **8. Änderung der Datenschutzerklärung**
+      **9. Änderung der Datenschutzerklärung**
 
 
       Wir behalten uns vor, diese Datenschutzerklärung bei Änderungen unserer
@@ -125,6 +157,7 @@ sections:
 
 
 
+      Stand März 2025
     actions: []
     colors: bg-light-fg-dark
     styles:
