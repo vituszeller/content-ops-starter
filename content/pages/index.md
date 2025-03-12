@@ -78,7 +78,10 @@ sections:
           Vision zur Realität – mit klarem Plan und nachhaltigem Wachstum.
 
         image:
-          url: /images/icon2.svg
+          url: >-
+            /images/A futuristic startup strategy concept integrating both AI
+            and Bitcoin. A glowing turquoise rocket launches from a high-tech
+            platform, symbolizing the .png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
