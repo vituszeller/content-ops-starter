@@ -73,10 +73,10 @@ sections:
         tagline: ''
       - title: Startup Strategie
         subtitle: zero to one
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Wir begleiten dein Tech- oder Bitcoin-Startup auf dem Weg von der
+          Vision zur Realität – mit klarem Plan und nachhaltigem Wachstum.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
