@@ -71,7 +71,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: Beratung & Projekt-umsetzung
+      - title: Beratung & Projektumsetzung
         subtitle: Von Beratung zur Realität
         text: >+
           **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
