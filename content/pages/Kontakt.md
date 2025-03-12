@@ -49,7 +49,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Senden
         showIcon: false
         icon: arrowRight
         iconPosition: right
