@@ -97,7 +97,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Projektumsetzung
-        subtitle: Faster
+        subtitle: Beratung bis zur Umsetzung
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
