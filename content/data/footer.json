@@ -53,7 +53,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/Datenschutz",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
