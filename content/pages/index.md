@@ -126,10 +126,11 @@ sections:
       - type: FeaturedItem
         title: Beratung & Projektumsetzung
         subtitle: Von Beratung zur Realität
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
+          erfolgreiches Tech- oder Bitcoin-Projekt – mit klarer Strategie und
+          praxisnaher Umsetzung.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
