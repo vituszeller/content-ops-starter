@@ -2,7 +2,7 @@
 type: PageLayout
 title: Datenschutz
 sections: []
-slug: empty
+slug: Datenschutz
 isDraft: false
 seo:
   type: Seo
