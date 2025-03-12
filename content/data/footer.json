@@ -45,7 +45,7 @@
     "legalLinks": [
         {
             "label": "Impressum",
-            "url": "/",
+            "url": "/impressum",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
