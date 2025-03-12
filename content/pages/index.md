@@ -71,7 +71,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: 20x
+      - title: Startup Strategie
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
