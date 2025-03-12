@@ -1,0 +1,172 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Produktangebot",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Produktangebot"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Kernproduktangebot",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Bitcoin Strategie",
+                        "tagline": "",
+                        "subtitle": "∞/21M",
+                        "text": "Auch Euer Unternehmen kann von Bitcoin und dessen Potenzial profitieren. Wir finden die passende Strategie und helfen bei der Umsetzung.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/Bitcoin_Strategie.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Lightning bolt symbol on red background",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Startup Strategie",
+                        "tagline": null,
+                        "subtitle": "zero to one",
+                        "text": "Wir begleiten dein Tech- oder Bitcoin-Startup auf dem Weg von der Vision zur Realität – mit klarem Plan und nachhaltigem Wachstum.\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/A futuristic startup strategy concept integrating both AI and Bitcoin. A glowing turquoise rocket launches from a high-tech platform, symbolizing the .png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Featured icon two",
+                            "elementId": "",
+                            "styles": null
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "textAlign": "left",
+                                "justifyContent": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Beratung & Projektumsetzung",
+                        "tagline": null,
+                        "subtitle": "Von Beratung zur Realität",
+                        "text": "**Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein erfolgreiches Tech- oder Bitcoin-Projekt – mit klarer Strategie und praxisnaher Umsetzung.\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/icon1.svg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Placeholder text",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-8",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "row",
+                                "justifyContent": "center",
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Von der Vision zur Realität: Strategie, Beratung und Umsetzung",
+                    "color": "text-primary",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "elementId": "",
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-16",
+                            "pt-16",
+                            "pl-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-produktangebot-e43a.png"
+        }
+    ]
+}
