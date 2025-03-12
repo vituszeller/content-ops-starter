@@ -210,7 +210,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Nehmen Sie entweder via Email unter starwings \[@] vituszeller.de oder
+      Nehmen Sie entweder via Email unter starwings \[at] vituszeller.de oder
       über das Formular Kontakt mit mir auf. Für telefonische Anfragen, rufen
       Sie bitte unter +49 1578 1824735 an.
     media:
