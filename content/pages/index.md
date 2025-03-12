@@ -78,7 +78,10 @@ sections:
           Vision zur Realität – mit klarem Plan und nachhaltigem Wachstum.
 
         image:
-          url: /images/icon2.svg
+          url: >-
+            /images/A futuristic startup strategy concept integrating both AI
+            and Bitcoin. A glowing turquoise rocket launches from a high-tech
+            platform, symbolizing the .png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -96,18 +99,22 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Beratung & Projektumsetzung
-        subtitle: Von der Beratung zur Realität
+      - type: FeaturedItem
+        title: Beratung & Projektumsetzung
+        subtitle: Von Beratung zur Realität
         text: >+
           **Idee. Planung. Umsetzung.** Wir transformieren deine Vision in ein
           erfolgreiches Tech- oder Bitcoin-Projekt – mit klarer Strategie und
           praxisnaher Umsetzung.
 
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -119,7 +126,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        type: FeaturedItem
+            justifyContent: center
+            textAlign: left
     actions: []
     badge:
       label: 'Von der Vision zur Realität: Strategie, Beratung und Umsetzung'
@@ -201,7 +209,8 @@ sections:
     subtitle: ''
     text: >
       Nehmen Sie entweder via Email unter vitus.zeller \[@] gmail.com oder über
-      das Formular Kontakt mit mir auf.
+      das Formular Kontakt mit mir auf. Für telefonische Anfragen, rufen Sie
+      bitte unter +49 1578 1824735 an.
     media:
       fields:
         - name: name
