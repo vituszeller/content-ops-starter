@@ -37,7 +37,7 @@
         },
         {
             "altText": "",
-            "url": "/sendto:vitus.zeller@gmail.com",
+            "url": "/mailto:vitus.zeller@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
