@@ -201,7 +201,8 @@ sections:
     subtitle: ''
     text: >
       Nehmen Sie entweder via Email unter vitus.zeller \[@] gmail.com oder über
-      das Formular Kontakt mit mir auf.
+      das Formular Kontakt mit mir auf. Für telefonische Anfragen, rufen Sie
+      bitte unter +49 1578 1824735 an.
     media:
       fields:
         - name: name
